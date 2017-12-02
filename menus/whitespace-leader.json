@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle whitespace-leader",
+        "command": "whitespace-leader:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "whitespace-leader",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "whitespace-leader:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
