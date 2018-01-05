@@ -9,7 +9,7 @@
     "atom-workspace": "whitespace-leader:toggle"
   },
   "repository": "https://github.com/roscolil/whitespace-leader.git",
-  "license": "MIT",
+  "license": "Ross Lillis 2018",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
