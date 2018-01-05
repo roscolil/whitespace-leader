@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "whitespace-leader:toggle"
+    "ctrl-alt-w": "whitespace-leader:toggle"
   }
 }

@@ -2,13 +2,13 @@
   "name": "whitespace-leader",
   "main": "./lib/whitespace-leader",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom package to create space between active line and bottom of text editor.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "whitespace-leader:toggle"
   },
-  "repository": "https://github.com/atom/whitespace-leader",
+  "repository": "https://github.com/roscolil/whitespace-leader.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
