@@ -2,7 +2,7 @@
   "name": "whitespace-leader",
   "main": "./lib/whitespace-leader",
   "version": "0.0.0",
-  "description": "Atom package to create space between active line and bottom of text editor.",
+  "description": "Atom package to create space between active line and bottom of text editor window.",
   "keywords": [
   ],
   "activationCommands": {
